@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RubyOlivia
-- 👀 I’m interested in ... Music/audio software, web development, and anything I can get my hands on to become a better programmer and work with amazing people!
+- 👀 I’m interested in ... Music/audio software, games, web development, and anything I can get my hands on to become a better programmer and work with amazing people!
 - 🌱 I’m currently learning ... React and API integration!
 - 💞️ I’m looking to collaborate on ... anything at all, I love programming and am new to it so all of the experience I can get is excellent!
 - 📫 How to reach me ... rubycannon1990@gmail.com
